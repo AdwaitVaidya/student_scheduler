@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "33484763935",
-    "project_id": "student-scheduler-53162",
-    "storage_bucket": "student-scheduler-53162.appspot.com"
+    "project_number": "588263152429",
+    "firebase_url": "https://student-scheduler-1f9bb-default-rtdb.firebaseio.com",
+    "project_id": "student-scheduler-1f9bb",
+    "storage_bucket": "student-scheduler-1f9bb.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:33484763935:android:75bba7d8f7b0e0aac2362a",
+        "mobilesdk_app_id": "1:588263152429:android:b3e091ea97715bf32051a4",
         "android_client_info": {
           "package_name": "com.student_scheduler"
         }
       },
       "oauth_client": [
         {
-          "client_id": "33484763935-vrr50qsbek1lrmoo87l566k8ihsq0ftk.apps.googleusercontent.com",
+          "client_id": "588263152429-bnu1iscc4ava1l76ko2f5sgirleeeq6i.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDlzSi6OvyJ2M4gREBhCBFiFN5xi8E9Cng"
+          "current_key": "AIzaSyDOpXzm4V5qS768rGSCOTu_efetNUDRozE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "33484763935-vrr50qsbek1lrmoo87l566k8ihsq0ftk.apps.googleusercontent.com",
+              "client_id": "588263152429-bnu1iscc4ava1l76ko2f5sgirleeeq6i.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
